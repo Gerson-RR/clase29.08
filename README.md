@@ -1,5 +1,8 @@
 # Clase 29.08
 ## Grupo: *Bionicos* 
+![Presentación]()
+
+
 |Name            |Last Name    |
 |----------------|-------------|
 |Rogger Leonardo |Agurto Romero|
